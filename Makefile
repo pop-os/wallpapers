@@ -1,5 +1,9 @@
-ORIGINAL=$(wildcard original/*.jpg)
-SCALED=$(sort $(patsubst original/%.jpg, scaled/%.jpg, $(ORIGINAL)))
+ORIGINAL=$(wildcard original/*.jpg original/*.png)
+SCALED=$(sort \
+	$(patsubst original/%.jpg, scaled/%.jpg, \
+	$(patsubst original/%.png, scaled/%.png, \
+	$(ORIGINAL) \
+)))
 
 prefix ?= /usr
 datarootdir = $(prefix)/share
@@ -26,10 +30,10 @@ uninstall:
 	rm -f "$(DESTDIR)$(datadir)/gnome-background-properties/pop-wallpapers.xml"
 	rmdir --ignore-fail-on-non-empty "$(DESTDIR)$(datadir)/gnome-background-properties/"
 
-scaled/%.jpg: original/%.jpg
+scaled/%: original/%
 	@mkdir -p build scaled
-	convert "$<" -resize "3840x2160^" "build/$*.jpg"
-	mv "build/$*.jpg" "$@"
+	convert "$<" -resize "3840x2160^" "build/$*"
+	mv "build/$*" "$@"
 
 scaled/info.xml: $(SCALED)
 	@mkdir -p build scaled
