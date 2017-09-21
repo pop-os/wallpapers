@@ -15,7 +15,7 @@ We also have an [Unsplash collection](https://unsplash.com/collections/1211323/p
 - [jad-limcaco-183877.jpg](https://unsplash.com/@jadlimcaco?photo=JEq_2UJoTtg)
 - [jake-hills-36605.jpg](https://unsplash.com/@jakehills?photo=0hgiQQEi4ic)
 - [jared-evans-119758.jpg](https://unsplash.com/@chromogenic?photo=Wwg1TzCuV9E)
-- [jasper-van-der-meij-97274.jpg](https://unsplash.com/@jaspervandermeij?photo=eKpO8DlBvo0)
+- [jasper-van-der-meij-97274-edit.jpg](https://unsplash.com/@jaspervandermeij?photo=eKpO8DlBvo0) (edit by [@cassidyjames](https://github.com/cassidyjames))
 - [kait-herzog-8242.jpg](https://unsplash.com/@kayboh?photo=6vWD_xnzPuU)
 - [nasa-45068.jpg](https://unsplash.com/@nasa?photo=jlV2k_Fx0fc)
 - [nasa-53884.jpg](https://unsplash.com/@nasa?photo=Q1p7bh3SHj8)
