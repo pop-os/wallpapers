@@ -2,6 +2,15 @@
 
 Hand-picked wallpapers for Pop!\_OS.
 
+## Kate Hazen
+
+Kate has designed these illustrative wallpapers for System76. They're licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+
+- kate-hazen-fractal-mountains.png
+- kate-hazen-mort1mer.png
+- kate-hazen-unleash-your-robot.png
+- kate-hazen-unleash-your-robot-blue.png
+
 ## Unsplash
 
 Unsplash photos are in the public domain.
@@ -29,3 +38,18 @@ We also have an [Unsplash collection](https://unsplash.com/collections/1211323/p
 - [spacex-81773.jpg](https://unsplash.com/@spacex?photo=VBNb52J8Trk)
 - [tim-mccartney-39907.jpg](https://unsplash.com/@timmccartney?photo=9T-ECH-1Tj0)
 - [tony-webster-97532.jpg](https://unsplash.com/@tonywebster?photo=F9o7u-CnDJk)
+
+## Nick Nazzaro
+
+System76 commissioned [Nick Nazzaro](http://www.nicknazzaro.com/) to create backgrounds for our [Conceptobots weekend project](system76.com/conceptobots). They also happen to make great wallpapers!
+
+They're licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+
+- nick-nazzaro-bedroom.png
+- nick-nazzaro-desert.png
+- nick-nazzaro-ice-cave.png
+- nick-nazzaro-jungle-green.png
+- nick-nazzaro-jungle-red.png
+- nick-nazzaro-space-blue.png
+- nick-nazzaro-space-red.png
+- nick-nazzaro-underwater.png
