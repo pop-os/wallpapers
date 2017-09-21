@@ -1,9 +1,5 @@
-ORIGINAL=$(wildcard original/*.jpg original/*.png)
-SCALED=$(sort \
-	$(patsubst original/%.jpg, scaled/%.jpg, \
-	$(patsubst original/%.png, scaled/%.png, \
-	$(ORIGINAL) \
-)))
+ORIGINAL=$(wildcard original/*)
+SCALED=$(sort $(patsubst original/%, scaled/%, $(ORIGINAL)))
 
 prefix ?= /usr
 datarootdir = $(prefix)/share
@@ -41,8 +37,10 @@ scaled/info.xml: $(SCALED)
 	echo "<!DOCTYPE wallpapers SYSTEM \"gnome-wp-list.dtd\">" >> "build/info.xml"
 	echo "<wallpapers>" >> "build/info.xml"
 	for file in $(SCALED); do \
+		filename="$$(basename "$$file")"; \
+		name="$${filename%.*}"; \
 		echo "    <wallpaper>" >> "build/info.xml"; \
-		echo "        <name>$$(basename "$$file" .jpg)</name>" >> "build/info.xml"; \
+		echo "        <name>$$name</name>" >> "build/info.xml"; \
 		echo "        <filename>/usr/share/backgrounds/pop/$$(basename "$$file")</filename>" >> "build/info.xml"; \
 		echo "        <options>zoom</options>" >> "build/info.xml"; \
 		echo "        <pcolor>#000000</pcolor>" >> "build/info.xml"; \
