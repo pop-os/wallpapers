@@ -1,6 +1,9 @@
 # pop-wallpapers
 
-Hand-picked wallpapers for Pop!\_OS.
+Hand-picked wallpapers for Pop!\_OS. When running `make -j` each wallpaper is
+scaled to be _at least_ 3840×2160 while preserving their aspect ratios. This way
+we don't throw away any data while making sure they look perfect on the vast
+majority of displays.
 
 ## Kate Hazen
 
