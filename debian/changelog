@@ -1,3 +1,9 @@
+pop-wallpapers (1.0.1) artful; urgency=medium
+
+  * Add background XML file
+
+ -- Jeremy Soller <jeremy@system76.com>  Thu, 21 Sep 2017 12:43:51 -0600
+
 pop-wallpapers (1.0.0) artful; urgency=medium
 
   * Initial release.
