@@ -1,0 +1,14 @@
+Source: pop-wallpapers
+Section: x11
+Priority: optional
+Maintainer: Jeremy Soller <jeremy@system76.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 3.9.8
+Homepage: https://github.com/system76/pop-wallpapers
+Vcs-Git: https://github.com/system76/pop-wallpapers.git
+
+Package: pop-wallpapers
+Architecture: all
+Provides: ubuntu-wallpapers
+Description: Pop Wallpapers
+ A collection of wallpapers for Pop!_OS
