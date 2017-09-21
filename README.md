@@ -8,7 +8,7 @@ Unsplash photos are in the public domain.
 
 We also have an [Unsplash collection](https://unsplash.com/collections/1211323/pop_wallpapers-1710) where you can view them all on Unsplash, though some may have been edited here for use as wallpapers.
 
-- [ahmadreza-sajadi-10140.jpg](https://unsplash.com/@ahmadreza_sajadi?photo=55xd_uiUYEE&utm_medium=referral&utm_campaign=photographer-credit&utm_content=gitHub)
+- [ahmadreza-sajadi-10140.jpg](https://unsplash.com/@ahmadreza_sajadi?photo=55xd_uiUYEE)
 - [benjamin-voros-250200.jpg](https://unsplash.com/@vorosbenisop?photo=yrwpJwDNSHE)
 - [ferdinand-stohr-149422.jpg](https://unsplash.com/@fellowferdi?photo=NFs6dRTBgaM)
 - [galen-crout-175291.jpg](https://unsplash.com/@galen_crout?photo=ZYecenZy7o4)
