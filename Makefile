@@ -1,8 +1,14 @@
-all: original/*.jpg
+ORIGINAL=$(wildcard original/*.jpg)
+SCALED=$(patsubst original/%.jpg, scaled/%.jpg, $(ORIGINAL))
+
+all: $(SCALED)
+
+scaled:
 	mkdir -p scaled
-	for image in $^; do \
-		convert "$$image" -resize "3840x2160!" "scaled/$$(basename "$$image")";\
-	done
+	touch scaled
+
+scaled/%.jpg: original/%.jpg scaled
+	convert "$<" -resize "3840x2160^" "$@"
 
 clean:
 	rm -rf scaled
