@@ -11,6 +11,10 @@ Kate has designed these illustrative wallpapers for System76. They're licensed u
 
 - kate-hazen-fractal-mountains.png
 - kate-hazen-mort1mer.png
+- kate-hazen-pop-m3lvin.png
+- kate-hazen-pop-retro1.png
+- kate-hazen-pop-retro2.png
+- kate-hazen-pop-space.png
 - kate-hazen-unleash-your-robot.png
 - kate-hazen-unleash-your-robot-blue.png
 
