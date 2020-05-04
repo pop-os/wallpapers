@@ -69,4 +69,7 @@ Wallpapers offered to System76 and licensed under the [Creative Commons Attribut
 - jumpington.jpeg
 - the-elder-stick.jpeg
 - waterfalling.jpeg
+<<<<<<< HEAD
 - parky-tree.jpeg
+=======
+>>>>>>> Added Four Wallpapers
