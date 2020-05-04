@@ -60,3 +60,13 @@ They're licensed under [Creative Commons Attribution-ShareAlike 4.0 Internationa
 - nick-nazzaro-space-blue.png
 - nick-nazzaro-space-red.png
 - nick-nazzaro-underwater.png
+
+## Clayton Diggs (Schykle)
+
+Wallpapers offered to System76 and licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+- absolute-shrubbery.jpeg
+- jumpington.jpeg
+- the-elder-stick.jpeg
+- waterfalling.jpeg
+- parky-tree.jpeg
