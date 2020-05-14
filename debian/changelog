@@ -1,3 +1,9 @@
+pop-wallpapers (1.0.5) focal; urgency=medium
+
+  * Release for 20.04
+
+ -- Jeremy Soller <jeremy@system76.com>  Thu, 14 May 2020 13:46:59 -0600
+
 pop-wallpapers (1.0.4) artful; urgency=medium
 
   * Add more wallpapers by Kate Hazen
