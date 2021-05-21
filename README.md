@@ -17,6 +17,7 @@ Kate has designed these illustrative wallpapers for System76. They're licensed u
 - kate-hazen-pop-space.png
 - kate-hazen-unleash-your-robot.png
 - kate-hazen-unleash-your-robot-blue.png
+- kate-hazen-COSMIC-desktop-wallpaper.png
 
 ## Unsplash
 
