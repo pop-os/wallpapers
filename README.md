@@ -23,8 +23,6 @@ Kate has designed these illustrative wallpapers for System76. They're licensed u
 
 Unsplash photos are in the public domain.
 
-We also have an [Unsplash collection](https://unsplash.com/collections/1211323/pop_wallpapers-1710) where you can view them all on Unsplash, though some may have been edited here for use as wallpapers.
-
 - [ahmadreza-sajadi-10140-edit.jpg](https://unsplash.com/photos/55xd_uiUYEE) (edit by [@cassidyjames](https://github.com/cassidyjames))
 - [benjamin-voros-250200.jpg](https://unsplash.com/photos/yrwpJwDNSHE)
 - [ferdinand-stohr-149422.jpg](https://unsplash.com/photos/NFs6dRTBgaM)
